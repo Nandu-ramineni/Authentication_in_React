@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/Optimization/language/languageUpdate.php
+/email_test.php
