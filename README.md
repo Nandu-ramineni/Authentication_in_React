@@ -1,4 +1,3 @@
-Sure, here's a sample README file for setting up authentication in a React application using Firebase:
 
 ---
 
